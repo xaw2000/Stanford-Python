@@ -1,5 +1,5 @@
 ## Stanford-Python
-Hello there!/
+Hello there!\
 This repository holds my programming projects done during the period of self-direct learning.
 
 * [StepUp](https://github.com/xaw2000/Stanford-Python/blob/main/Stanford%20Python/SC001_lecture01/StepUp.py)
